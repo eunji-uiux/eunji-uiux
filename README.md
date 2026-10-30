@@ -6,6 +6,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+## 🗂 Projects
+
+- **[j todo](https://github.com/jeiltodo/client)** — 개인·그룹 단위 일정 관리 서비스 · 팀 jeil · 디자이너 · 2024
+
 <!---
 eunji-uiux/eunji-uiux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
